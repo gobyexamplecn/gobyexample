@@ -1,4 +1,4 @@
-name: Gobyexamplecn action
+name: Update action
 on:
   push:
     branches:
