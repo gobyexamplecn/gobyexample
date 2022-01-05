@@ -27,5 +27,5 @@ jobs:
         with:
           personal_token: ${{ secrets.PUB_AUTH_TOKEN }}
           external_repository: gobyexamplecn/gobyexamplecn.github.io
-          publish_branch: master
+          publish_branch: main
           publish_dir: ./public
