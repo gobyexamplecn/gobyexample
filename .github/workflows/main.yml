@@ -2,7 +2,7 @@ name: Gobyexamplecn action
 on:
   push:
     branches:
-      - master
+      - update
 jobs:
 
   build:
