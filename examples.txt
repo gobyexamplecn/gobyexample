@@ -15,10 +15,12 @@ Variadic Functions->变参函数
 Closures->闭包
 Recursion->递归
 Pointers->指针
+Strings and Runes->字符串和rune类型
 Structs->结构体
 Methods->方法
 Interfaces->接口
 Embedding
+Generics->泛型
 Errors->错误处理
 Goroutines->协程
 Channels->通道
@@ -43,9 +45,9 @@ Sorting by Functions->使用函数自定义排序
 Panic
 Defer
 Recover
-Collection Functions->组合函数
 String Functions->字符串函数
 String Formatting->字符串格式化
+Text Templates->文本模板
 Regular Expressions->正则表达式
 JSON
 XML
@@ -55,7 +57,7 @@ Time Formatting / Parsing->时间的格式化和解析
 Random Numbers->随机数
 Number Parsing->数字解析
 URL Parsing->URL 解析
-SHA1 Hashes->SHA1 哈希
+SHA256 Hashes->SHA256 散列
 Base64 Encoding->Base64 编码
 Reading Files->读文件
 Writing Files->写文件

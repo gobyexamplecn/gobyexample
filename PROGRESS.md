@@ -1,6 +1,6 @@
 # 期待您的参与
 
-例子已完成与[源项目](https://github.com/mmcgrana/gobyexample) master 分支（截止 2021 年 12 月 17 日）的同步，均为 77 个例子。
+例子已完成与[源项目](https://github.com/mmcgrana/gobyexample) master 分支（截止 2022 年 3 月 20 日）的同步，均为 79 个例子。
 
 后续如果你发现有更新不及时的情况，或者你觉得目前的翻译内容有任何问题，我们都 `非常欢迎` 各位同学提交 pull request。
 
@@ -23,10 +23,12 @@
 - [x] Closures->闭包
 - [x] Recursion->递归
 - [x] Pointers->指针
+- [x] Strings and Runes->字符串和rune类型
 - [x] Structs->结构体
 - [x] Methods->方法
 - [x] Interfaces->接口
 - [x] Embedding
+- [x] Generics->泛型
 - [x] Errors->错误处理
 - [x] Goroutines->协程
 - [x] Channels->通道
@@ -54,6 +56,7 @@
 - [x] Collection Functions->组合函数
 - [x] String Functions->字符串函数
 - [x] String Formatting->字符串格式化
+- [x] Text Templates->文本模板
 - [x] Regular Expressions->正则表达式
 - [x] JSON
 - [x] XML
@@ -63,7 +66,7 @@
 - [x] Random Numbers->随机数
 - [x] Number Parsing->数字解析
 - [x] URL Parsing->URL 解析
-- [x] SHA1 Hashes->SHA1 哈希
+- [x] SHA256 Hashes->SHA256 散列
 - [x] Base64 Encoding->Base64 编码
 - [x] Reading Files->读文件
 - [x] Writing Files->写文件
